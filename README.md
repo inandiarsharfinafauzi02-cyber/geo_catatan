@@ -11,11 +11,11 @@ kode yang di tambahankan:
   <img width="1738" height="1496" alt="image" src="https://github.com/user-attachments/assets/600d16fe-f607-4944-ab02-448d9fa72596" />
 
  <img width="1552" height="1422" alt="image" src="https://github.com/user-attachments/assets/4c5e833e-bc02-4a61-9d1a-a08e4b9955d1" />
- 2.HapusData : Tambahkan fitur untuk menghapus marker yang sudah dibuat.
+ 2. HapusData : Tambahkan fitur untuk menghapus marker yang sudah dibuat.
  kode: 
  <img width="1720" height="1236" alt="image" src="https://github.com/user-attachments/assets/29b5b979-daef-40f5-b8c3-4b30f7dc3663" />
 
- 3.Simpan Data (Opsional) Gunakan SharedPreferences atau Hive agar data tidak hilang saat aplikasi ditutup
+ 3. Simpan Data (Opsional) Gunakan SharedPreferences atau Hive agar data tidak hilang saat aplikasi ditutup
  kode: 
  <img width="1350" height="1422" alt="image" src="https://github.com/user-attachments/assets/b36572ed-a559-4b79-a5fa-3d8d9557f23b" />
 ## HASILNYA:
