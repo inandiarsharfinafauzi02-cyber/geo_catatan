@@ -1,16 +1,17 @@
 # geo_catatan
+## Nama : inandiar sharfina fauzi
+## NIM : 362458302078
+## prodi : Teknologi rekayasa perangkat lunak
 
-A new Flutter project.
+## TugasMandiri
+ 1. KustomisasiMarker:Ubahikonmarkeragarberbeda-bedatergantungjenis catatan(misal:Toko,Rumah,Kantor).
+    ![WhatsApp Image 2025-11-21 at 21 07 59_c78120c2](https://github.com/user-attachments/assets/36d3710f-eaf2-44b4-9137-902002de2f5a)
+    <img width="1582" height="968" alt="image" src="https://github.com/user-attachments/assets/3be713cc-2562-4404-9a7d-6c44cb133634" />
+    penjelasan:
+    
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 2.HapusData:Tambahkanfiturunt![Uploading WhatsApp Image 2025-11-21 at 21.07.59_bc6d73c6.jpg…]()
+ukmenghapusmarkeryangsudahdibuat.
+ 3. SimpanData: (Opsional)GunakanSharedPreferencesatauHiveagardata
+ tidakhilangsaataplikasiditutup.
