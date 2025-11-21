@@ -14,8 +14,7 @@ kode yang di tambahankan:
  PENJELASAN:
  Digunakan untuk membedakan marker pada peta dengan cara menetapkan ikon dan warna yang unik, yang ditentukan oleh jenis catatan yang disimpan (seperti 'Toko', 'Kantor', atau 'Rumah'). Proses kustomisasi ini dikendalikan oleh dua fungsi helper: _getIconForType yang memilih simbol (IconData) yang sesuai, dan _getColorForType yang menentukan skema warna. Kedua nilai ini kemudian diterapkan pada setiap objek Marker saat data _savedNotes diproses. Hal ini memastikan bahwa ikon dan warna marker selalu sinkron dengan properti n.jenis data, sehingga meningkatkan kemudahan pengguna dalam mengidentifikasi dan membedakan kategori lokasi di peta secara visual.
  
- 
-2.  HapusData : Tambahkan fitur untuk menghapus marker yang sudah dibuat.
+ 2. HapusData : Tambahkan fitur untuk menghapus marker yang sudah dibuat.
     
  kode: 
  <img width="1720" height="1236" alt="image" src="https://github.com/user-attachments/assets/29b5b979-daef-40f5-b8c3-4b30f7dc3663" />
@@ -31,6 +30,7 @@ kode yang di tambahankan:
  <img width="1350" height="1422" alt="image" src="https://github.com/user-attachments/assets/b36572ed-a559-4b79-a5fa-3d8d9557f23b" />
  PENJELASAN :
  Fungsi _saveNotes() melakukan serialisasi data catatan menjadi JSON String untuk disimpan ke disk, sementara _loadNotes() menangani deserialisasi (memuat dan mengembalikan data) saat aplikasi dimulai melalui initState(), yang secara  bersatu menjamin data marker tersimpan dan dimuat kembali secara otomatis tanpa hilang.
+ 
 ##  HASILNYA:
 
 - tampilan awal
