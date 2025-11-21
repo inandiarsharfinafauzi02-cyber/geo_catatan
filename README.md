@@ -5,10 +5,13 @@
 
 ## TugasMandiri
  1. KustomisasiMarker:Ubahikonmarkeragarberbeda-bedatergantungjenis catatan(misal:Toko,Rumah,Kantor). 
-   kode yang di tambahankan:
+
+kode yang di tambahankan:
+
     <img width="1582" height="968" alt="image" src="https://github.com/user-attachments/assets/3be713cc-2562-4404-9a7d-6c44cb133634" />
      Hasil 
-    ![WhatsApp Image 2025-11-21 at 21 22 24_ba27a43a](https://github.com/user-attachments/assets/a954b10f-2973-4aa2-8521-ff17226c323a)
+     
+   ![WhatsApp Image 2025-11-21 at 21 22 24_ba27a43a](https://github.com/user-attachments/assets/a954b10f-2973-4aa2-8521-ff17226c323a)
     
     penjelasan:
     
