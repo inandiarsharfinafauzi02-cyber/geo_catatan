@@ -4,22 +4,37 @@
 ## prodi : Teknologi rekayasa perangkat lunak
 
 ## TugasMandiri
- 1. KustomisasiMarker:Ubahikonmarkeragarberbeda-bedatergantungjenis catatan(misal:Toko,Rumah,Kantor). 
+ 1. Kustomisasi Marker:Ubah ikon marker agar berbeda-beda tergantung jenis catatan(misal:Toko,Rumah,Kantor). 
 
 kode yang di tambahankan:
 
-    <img width="1582" height="968" alt="image" src="https://github.com/user-attachments/assets/3be713cc-2562-4404-9a7d-6c44cb133634" />
-     Hasil 
-     
-   ![WhatsApp Image 2025-11-21 at 21 22 24_ba27a43a](https://github.com/user-attachments/assets/a954b10f-2973-4aa2-8521-ff17226c323a)
-    
-    penjelasan:
-    
-    pada tugas pertama ini membuat setiap penanda lokasi di peta menjadi unik dan mudah dibedakan berdasarkan jenis catatannya (Toko, Kantor, Rumah) melalui perbedaan ikon dan warna yang spesifik. Penerapan ini, menggunakan fungsi penentu ikon dan warna dari kode, secara langsung meningkatkan kejelasan visual dan kemampuan pengguna untuk mengidentifikasi kategori lokasi secara cepat, sehingga tujuan visualisasi geospasial yang lebih informatif telah tercapai
-    
+  <img width="1738" height="1496" alt="image" src="https://github.com/user-attachments/assets/600d16fe-f607-4944-ab02-448d9fa72596" />
+
+ <img width="1552" height="1422" alt="image" src="https://github.com/user-attachments/assets/4c5e833e-bc02-4a61-9d1a-a08e4b9955d1" />
+ 2.HapusData : Tambahkan fitur untuk menghapus marker yang sudah dibuat.
+ kode: 
+ <img width="1720" height="1236" alt="image" src="https://github.com/user-attachments/assets/29b5b979-daef-40f5-b8c3-4b30f7dc3663" />
+
+ 3.Simpan Data (Opsional) Gunakan SharedPreferences atau Hive agar data tidak hilang saat aplikasi ditutup
+ kode: 
+ <img width="1350" height="1422" alt="image" src="https://github.com/user-attachments/assets/b36572ed-a559-4b79-a5fa-3d8d9557f23b" />
+## HASILNYA:
+- tampilan awal
+  
+![WhatsApp Image 2025-11-21 at 21 07 59_5f6d4eda](https://github.com/user-attachments/assets/be803d50-b21e-43af-84df-9fe36a3e4a4b)
+
+- menambahkan catatan 
+![WhatsApp Image 2025-11-21 at 21 10 21_cb3f74d4](https://github.com/user-attachments/assets/50ec9c1e-391d-494c-9664-3e9fb0547a33)
+
+- tampilan catatan yang telah di buat
+![WhatsApp Image 2025-11-21 at 21 22 24_ba94f364](https://github.com/user-attachments/assets/de83c313-9213-4337-b71d-7b7d7fad85bc)
+
+- Hapus catatan
+![WhatsApp Image 2025-11-21 at 21 08 01_24d08d51](https://github.com/user-attachments/assets/13ef56f0-155c-476d-b30c-59d496de8bdf)
+
+- setelah di hapus catatannya
+![WhatsApp Image 2025-11-21 at 22 26 56_73b6490e](https://github.com/user-attachments/assets/73d6e2c2-f822-4806-81fe-34bc73d8cbea)
 
 
- 2.HapusData:Tambahkanfiturunt![Uploading WhatsApp Image 2025-11-21 at 21.07.59_bc6d73c6.jpg…]()
-ukmenghapusmarkeryangsudahdibuat.
- 3. SimpanData: (Opsional)GunakanSharedPreferencesatauHiveagardata
- tidakhilangsaataplikasiditutup.
+
+
